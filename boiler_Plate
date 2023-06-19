@@ -1,1 +1,12 @@
+#Learn Bash by Building a Boilerplate
 
+BASH TERMINAL COMMANDS
+cd - change directory(folder); Syntax: cd(foldername)
+ls(list all the content of a folder available)
+pwd - print working directory -used to print the path of a directory
+
+cd .. to go back a folder level. The two dots will take you back one level. 
+more <filename> You can see what's in a file 
+
+Clear - to empty the terminal
+list contents of a folder/directory in long list format: ls =l <filename>
