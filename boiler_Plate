@@ -45,7 +45,7 @@ LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
   ->   cd <folder_name> to go forward
   ->   cd .. used to go back a folder level 
   ->   cd ../.. used to go back 2 folders/directories. Each set of dots represents another folder level
-
+    *** The . takes you to the folder you are in, and .. takes you back, or up, a folder. ***
 
 12. More 
     ##used to see what's in a "file"
@@ -54,44 +54,30 @@ LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
 13. Clear
     ##empty the terminal if it looks too cluttered
 
-16. List + Flags
+16. List + Flags [command <flag>]
     ##you can add a "flag" to a command to use it a differemt way
     -> ls -l list the contents of a folder in "long list format"
     -> -all list all the files in a folder/directory including hidden files and files without an extension
-
+    -> --help Display the help menu for the command
 **NOTE** In the Terminal, Folders appear in Blue, Files are normal white text, images appear in Pink
 
 34. Make Directory
     mkdir <folder_name> used to make a new folder
 
-35. List
-36. Change Directory
-37. List
-38. Echo
+**CONTENTS OF A WEBSITE**
+    -> index.html client file
+    -> styles.css CSS file
+    -> index.js JavaScript file
+    -> .gitignore A Git repository
+    -> background.jpg ; header.png ; footer.jpeg   images for website
+    -> Fonts: roboto, lato, menlo
+    -> icons <filename>.svg
+
 39. Touch
-40. Touch
-41. List
-42. Touch
-43. Touch
-44. List
-45. Help
-46. List All
-47. Change Directory
-48. Touch
-49. Touch
-50. Touch
-51. List
-52. Touch
-53. Touch
-54. Touch
-55. List
-56. Touch
-57. Touch
-58. Touch
-59. List
-60. Make Directory
-61. List
+    touch <filename> used to create a new "file"
+
 62. Copy
+    cp <file> <destination> used to copy a file to a directory/folder
 63. Change Directory
 64. List
 65. Change Directory
