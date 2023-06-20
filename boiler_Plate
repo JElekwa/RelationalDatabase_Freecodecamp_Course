@@ -42,37 +42,28 @@ LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
     
 4. Change Directory
     ##used to go into a folder/directory - cd stands for "change directory
-    cd <folder_name>
-5. Print Working Directory
-6. List
-7. Change Directory
-8. Print Working Directory
-9. List
-10. Change Directory
-11. List
-12. More
+  ->   cd <folder_name> to go forward
+  ->   cd .. used to go back a folder level 
+  ->   cd ../.. used to go back 2 folders/directories. Each set of dots represents another folder level
+
+
+12. More 
+    ##used to see what's in a "file"
+    more <filename>
+
 13. Clear
-14. List
-15. Change Directory
-16. List
-17. Long List Format
-18. Change Directory
-19. List
-20. More
-21. List
-22. More
-23. Clear
-24. List
-25. Change Directory
-26. Print Working Directory
-27. List
-28. More
-29. Change Directory
-30. Change Directory
-31. Change Directory
-32. List
-33. Clear
+    ##empty the terminal if it looks too cluttered
+
+16. List + Flags
+    ##you can add a "flag" to a command to use it a differemt way
+    -> ls -l list the contents of a folder in "long list format"
+    -> -all list all the files in a folder/directory including hidden files and files without an extension
+
+**NOTE** In the Terminal, Folders appear in Blue, Files are normal white text, images appear in Pink
+
 34. Make Directory
+    mkdir <folder_name> used to make a new folder
+
 35. List
 36. Change Directory
 37. List
