@@ -10,3 +10,193 @@ more <filename> You can see what's in a file
 
 Clear - to empty the terminal
 list contents of a folder/directory in long list format: ls =l <filename>
+
+https://raw.githubusercontent.com/freeCodeCamp/learn-bash-by-building-a-boilerplate/main/tutorial.json
+
+COURSE PAGE
+freecodecamp.org/learn/relational-database/
+
+FORUM
+https://forum.freecodecamp.org/t/running-the-relational-database-curriculum-in-your-browser/500231
+
+HOW TO RUN ON DOCKER LOCALLY
+https://www.freecodecamp.org/news/how-to-run-freecodecamps-relational-databases-curriculum-using-docker-vscode-and-coderoad/
+
+
+LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
+> Welcome to the Introduction to Bash lessons. I know it's scary, but you can do this!
+
+
+>>Content
+
+1. Restart Terminal
+    
+
+2. Print Working Directory
+3. List
+4. Change Directory
+5. Print Working Directory
+6. List
+7. Change Directory
+8. Print Working Directory
+9. List
+10. Change Directory
+11. List
+12. More
+13. Clear
+14. List
+15. Change Directory
+16. List
+17. Long List Format
+18. Change Directory
+19. List
+20. More
+21. List
+22. More
+23. Clear
+24. List
+25. Change Directory
+26. Print Working Directory
+27. List
+28. More
+29. Change Directory
+30. Change Directory
+31. Change Directory
+32. List
+33. Clear
+34. Make Directory
+35. List
+36. Change Directory
+37. List
+38. Echo
+39. Touch
+40. Touch
+41. List
+42. Touch
+43. Touch
+44. List
+45. Help
+46. List All
+47. Change Directory
+48. Touch
+49. Touch
+50. Touch
+51. List
+52. Touch
+53. Touch
+54. Touch
+55. List
+56. Touch
+57. Touch
+58. Touch
+59. List
+60. Make Directory
+61. List
+62. Copy
+63. Change Directory
+64. List
+65. Change Directory
+66. List
+67. Remove
+68. List
+69. Copy
+70. Copy
+71. Change Directory
+72. List
+73. Change Directory
+74. List
+75. Remove
+76. Remove
+77. List
+78. Rename
+79. List
+80. Rename
+81. Rename
+82. List
+83. Make Directory
+84. List
+85. Move
+86. Find
+87. Move
+88. Move
+89. Find
+90. Make Directory
+91. Make Directory
+92. Move
+93. Find
+94. Move
+95. Move
+96. Find
+97. Find Subfolder
+98. Find
+99. Find
+100. Find
+101. Find
+102. Find
+103. Change Directory
+104. Make Directory
+105. Change Directory
+106. Make Directory
+107. Change Directory
+108. Touch
+109. Change Directory
+110. Change Directory
+111. List
+112. Move
+113. List
+114. Change Directory
+115. List
+116. Find
+117. Move
+118. Find
+119. Find
+120. Move
+121. Find
+122. Remove Directory
+123. Remove
+124. Remove Directory
+125. List
+126. Make Directory
+127. Move
+128. Find
+129. Move
+130. Move
+131. Find
+132. Make Directory
+133. Touch
+134. Touch
+135. Find
+136. Touch
+137. Touch
+138. Find
+139. Remove Help
+140. Remove Recursively
+141. List
+142. Touch
+143. Touch
+144. Touch
+145. List
+146. Echo
+147. Echo
+148. Echo
+149. Echo to File
+150. More
+151. Echo to File
+152. More
+153. Echo to File
+154. More
+155. Change Directory
+156. List
+157. Rename
+158. List
+159. Copy Help
+160. Copy
+161. List
+162. Find
+163. Find
+164. Clear
+165. Echo
+166. Exit
+
+
+
