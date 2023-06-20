@@ -30,11 +30,19 @@ LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
 >>Content
 
 1. Restart Terminal
-    
+    echo <text> - used to print something in the terminal
 
-2. Print Working Directory
-3. List
+2. Print Working Directory/folder
+    ##(to see the path of the folder) - The output tells you where the folder you are in is located.
+    pwd - eg /home/codeally/project
+
+3. List - 
+    ##used to find out what is in a folder/directory - The output is showing everything in this folder.
+    ls
+    
 4. Change Directory
+    ##used to go into a folder/directory - cd stands for "change directory
+    cd <folder_name>
 5. Print Working Directory
 6. List
 7. Change Directory
