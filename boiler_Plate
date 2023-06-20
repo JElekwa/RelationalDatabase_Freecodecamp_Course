@@ -70,7 +70,7 @@ LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
     -> index.js JavaScript file
     -> .gitignore A Git repository
     -> background.jpg ; header.png ; footer.jpeg   images for website
-    -> Fonts: roboto, lato, menlo
+    -> Fonts: roboto.woff, lato.ttf, menlo.otf
     -> icons <filename>.svg
 
 39. Touch
@@ -78,30 +78,22 @@ LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
 
 62. Copy
     cp <file> <destination> used to copy a file to a directory/folder
-63. Change Directory
-64. List
-65. Change Directory
-66. List
+
 67. Remove
-68. List
-69. Copy
-70. Copy
-71. Change Directory
-72. List
-73. Change Directory
-74. List
-75. Remove
-76. Remove
-77. List
+    rm <filename> used to remove/delete a file from a directory
+
+
 78. Rename
-79. List
-80. Rename
-81. Rename
-82. List
-83. Make Directory
-84. List
+    mv <filename> <new_filename> used to move/rename a file to the new name
+        eg to rename roboto.font to roboto.woff: mv roboto.font roboto.woff
+
+
 85. Move
+     mv <file> <destination> used to move a file from current folder to new sub folder
+
 86. Find
+    
+
 87. Move
 88. Move
 89. Find
