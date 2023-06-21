@@ -75,6 +75,10 @@ LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
     -> Fonts: roboto.woff, lato.ttf, menlo.otf
     -> icons <filename>.svg
 
+    -> Clients: Assets [fonts, images,icons], src[index.js; index.html;styles.css]
+    -> Package.json
+    -> server.js
+
 39. Touch
    -> touch <filename> used to create a new "file"
     -> touch client/assets/fonts/roboto-light wolf - used to create new file in a subfolder wihout using "cd" command
@@ -112,8 +116,16 @@ LEARN BASH BY BUILDING A WEBSITE BOILERPLATE
 122. Remove Directory
      rmdir <directory_name> used to remove afolder/dirrectory
 
-139. Remove Help
+139. Remove + Help
+     How doo you remove/delete a folder with files in it?
+    rm --help
+    
 140. Remove Recursively
+    rm -R used to remove directories and their content recursively
+    rm -f ignore nonexitent files and arguments
+    rm -d or --dir remove empty directories
+    rm -v emxplain what is being done
+
 141. List
 142. Touch
 143. Touch
